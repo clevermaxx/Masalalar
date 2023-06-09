@@ -1,0 +1,7 @@
+C:\Users\Qwerty4\source\repos\masala5\masala5\bin\Debug\masala5.exe.config
+C:\Users\Qwerty4\source\repos\masala5\masala5\bin\Debug\masala5.exe
+C:\Users\Qwerty4\source\repos\masala5\masala5\bin\Debug\masala5.pdb
+C:\Users\Qwerty4\source\repos\masala5\masala5\obj\Debug\masala5.csproj.AssemblyReference.cache
+C:\Users\Qwerty4\source\repos\masala5\masala5\obj\Debug\masala5.csproj.CoreCompileInputs.cache
+C:\Users\Qwerty4\source\repos\masala5\masala5\obj\Debug\masala5.exe
+C:\Users\Qwerty4\source\repos\masala5\masala5\obj\Debug\masala5.pdb
