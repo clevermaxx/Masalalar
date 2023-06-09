@@ -1,0 +1,7 @@
+C:\Users\Qwerty4\source\repos\masala 4\masala 4\obj\Debug\masala 4.csproj.AssemblyReference.cache
+C:\Users\Qwerty4\source\repos\masala 4\masala 4\obj\Debug\masala 4.csproj.CoreCompileInputs.cache
+C:\Users\Qwerty4\source\repos\masala 4\masala 4\bin\Debug\masala 4.exe.config
+C:\Users\Qwerty4\source\repos\masala 4\masala 4\bin\Debug\masala 4.exe
+C:\Users\Qwerty4\source\repos\masala 4\masala 4\bin\Debug\masala 4.pdb
+C:\Users\Qwerty4\source\repos\masala 4\masala 4\obj\Debug\masala 4.exe
+C:\Users\Qwerty4\source\repos\masala 4\masala 4\obj\Debug\masala 4.pdb
